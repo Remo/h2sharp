@@ -1,0 +1,16 @@
+1.1.0.0:
+Added: H2DataAdapter class and support EventArgs classes.
+Added: Common constructors stated in Code Conventions (http://msdn.microsoft.com/en-us/library/d6kz0tyb(VS.71).aspx)
+Fixed: Bug with @ being seen a a argument in a string.
+
+1.0.0.0:
+
+Added methods and properties to follow the Ado.Net way of doing things.
+Cleaned up the code.
+Added more support to H2Parameters.
+Wrote my own Connection pool since the one built into H2 was really slow for some reason.
+Ran FXCop and fixed some of the stuff it complained about. (Ignored the ones that all ado.net providers fail at.)
+Added A lot more.
+
+0.1.0.0:
+project created

@@ -1,0 +1,27 @@
+Release Notes fo H2Sharp
+
+Since God Created me and Jesus Saved me All glory goes to God.
+
+
+1.1.0.0:
+
+Basically implemented more of the ADO.Net stuff properly and fixed a bug that was found.
+Uses the h2-2008-06-21 version of H2
+
+1.0.0.0:
+
+fixed a few potential bugs and added alot of checks for connections being opened and such.
+it is a lot closer to how Ado.Net providers should be formated. 
+
+
+0.1.0.0:
+The code is complete enough to allow for text queries. All the 
+execute methods work, so do transactions, connections and the 
+connection pool. It wraps the java code well enough that the 
+assembly is CLS compliant. 
+
+There are a lot of properties and methods that throw 
+the NotImplementedException.
+This is because I have yet to find a use for them or 
+know how they are used. Most likely in later releases 
+a lot of these will change to the NotSupportedException. 

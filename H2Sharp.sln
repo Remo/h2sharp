@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2Sharp", "H2Sharp\H2Sharp.csproj", "{4FED5F49-C953-4E6E-ADC4-8156E17D2AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2Examples", "H2Examples\H2Examples.csproj", "{D5BDBB8B-1681-43A5-B2F7-E7D5A15B39D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "H2SharpSetup", "H2SharpSetup\H2SharpSetup.vdproj", "{38A25EC6-6FF7-45E1-86BA-9AEBB255E239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FED5F49-C953-4E6E-ADC4-8156E17D2AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FED5F49-C953-4E6E-ADC4-8156E17D2AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FED5F49-C953-4E6E-ADC4-8156E17D2AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FED5F49-C953-4E6E-ADC4-8156E17D2AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BDBB8B-1681-43A5-B2F7-E7D5A15B39D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BDBB8B-1681-43A5-B2F7-E7D5A15B39D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BDBB8B-1681-43A5-B2F7-E7D5A15B39D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BDBB8B-1681-43A5-B2F7-E7D5A15B39D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A25EC6-6FF7-45E1-86BA-9AEBB255E239}.Debug|Any CPU.ActiveCfg = Debug
+		{38A25EC6-6FF7-45E1-86BA-9AEBB255E239}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
