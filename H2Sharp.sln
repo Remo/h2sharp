@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2Sharp", "H2Sharp\H2Sharp.csproj", "{4FED5F49-C953-4E6E-ADC4-8156E17D2AF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2Examples", "H2Examples\H2Examples.csproj", "{D5BDBB8B-1681-43A5-B2F7-E7D5A15B39D0}"
